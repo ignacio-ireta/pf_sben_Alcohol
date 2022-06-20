@@ -18,6 +18,12 @@ El objetivo del presente es hacer uso de métodos estadísticos y modelos de apr
 > * [numpy](https://numpy.org/) 
 > * [matplotlib](https://matplotlib.org/) 
 > * [seaborn](https://seaborn.pydata.org/)
-> * [seaborn](https://seaborn.pydata.org/)
+> * [sklearn](https://scikit-learn.org/stable/)
+> 
+Archivos proporcionados:
+
+´´bonito+msv.ipynb´´ Contiene toda los experimentos y resultados de nuestro análisis.
+´´student-mat.csv´´ Contiene el conjunto de datos estudiado.
+''alcoholconsumption.pdf'' Contiene el reporte del estudio, incluyendo la interpretación de resultados y conclusiones de éstos.
 
 
