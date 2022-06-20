@@ -22,9 +22,9 @@ El objetivo del presente es hacer uso de métodos estadísticos y modelos de apr
 > 
 ### Archivos:
 >
-- `bonito+msv.ipynb´. Contiene toda los experimentos y resultados de nuestro análisis.
+- `bonito+msv.ipynb`: Contiene toda los experimentos y resultados de nuestro análisis.
 >
-- `student-mat.csv´. Contiene el conjunto de datos estudiado.
+- `student-mat.csv`: Contiene el conjunto de datos estudiado.
 >
-- `alcoholconsumption.pdf´. Contiene el reporte del estudio, incluyendo la interpretación de resultados y conclusiones de éstos.
+- `alcoholconsumption.pdf`: Contiene el reporte del estudio, incluyendo la interpretación de resultados y conclusiones de éstos.
 
