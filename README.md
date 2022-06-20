@@ -14,8 +14,8 @@ El objetivo del presente es hacer uso de métodos estadísticos y modelos de apr
 
 ## Metodología
 ### Librerías
-> * [Pandas](https://pandas.pydata.org/)
-> * [Numpy](https://numpy.org/) 
+> * [pandas](https://pandas.pydata.org/)
+> * [numpy](https://numpy.org/) 
 > * [matplotlib](https://matplotlib.org/) 
 > * [seaborn](https://seaborn.pydata.org/)
 > * [seaborn](https://seaborn.pydata.org/)
