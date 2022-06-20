@@ -22,7 +22,9 @@ El objetivo del presente es hacer uso de métodos estadísticos y modelos de apr
 > 
 ### Archivos:
 >
-- `bonito+msv.ipynb`: Contiene toda los experimentos y resultados de nuestro análisis.
+- `bonito+msv.ipynb`: Contiene los experimentos de aplicación de aprendizaje automático y resultados de nuestro análisis.
+>
+- `codigo_fuente_alc.ipynb`: Contiene los experimentos y resultados de nuestro análisis, incluyendo el análisis exploratorio.
 >
 - `student-mat.csv`: Contiene el conjunto de datos estudiado.
 >
